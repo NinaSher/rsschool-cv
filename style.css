@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+}
+body{
+	background-color: white;
+	max-width: 1024px;
+	margin: auto;
+	font-family: "Fira Mono", monospace;
+	font-size: 18px;
+	line-height: 1.5;
+	color: black;
+}
+h1{
+	font-size: 36px;
+}
